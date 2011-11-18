@@ -1,0 +1,6 @@
+bin
+*.egg-info
+lib
+include
+selenium
+*.pyc
